@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Gilnam
+ *
+ */
+module first {
+}
